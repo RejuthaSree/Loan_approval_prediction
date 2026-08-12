@@ -1,5 +1,3 @@
-Ah, you mean the **README.md for your GitHub repository**, not notebook Markdown. Use this:
-
 # Loan Approval Prediction Using Decision Tree
 
 ## 📌 Project Overview
